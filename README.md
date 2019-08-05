@@ -17,7 +17,7 @@ The following coins are recognized, although may not be fully tested:
 *  BTN - [Bitcoin New](http://btn.kim/)
 *  BTP - [Bitcoin Pay](http://www.btceasypay.com/)
 *  BTSQ - [Bitcoin Community](http://btsq.top/)
-*  BTT - [Bitcoin Top](https://bitcointop.org/)
+*  BTT - [Bitcoin Top](http://bitcointop.org/)
 *  BTV - [Bitcoin Vote](https://bitvote.one/)
 *  BTW - [Bitcoin World](http://www.btw.one/)
 *  BTX - [Bitcore](https://bitcore.cc/)
